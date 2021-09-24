@@ -1,6 +1,6 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-We will be learnig the basics of bootstrap by building a [small website](https://sharadjay.github.io/Z-Factor/index.html) live together.
+We will be learning the basics of bootstrap by building a [small website](https://sharadjay.github.io/Z-Factor/index.html) live together.
 >*Excited, Start your coding journey with us*  
 
 **Creators:** Sharad Jain and Sweety Bandgar
@@ -25,15 +25,9 @@ We won't be downloading anything, instead we will use jdDelivr, a free open sour
 ## 3. Clone the repository 
 Follow the below steps: 
 
-1. Go to [Repository's main](https://github.com/sharadJay/Z-Factor) page on github. 
-![repo main page](./images/main_page.png) 
-
-2. Above the list of files, click  Code green button.
-![Code](./images/Green_code.png) 
-
-3. Copy the link.
-![copy](./images/Copy_link.png) 
-
+1. Go to [Repository's main](https://github.com/sharadJay/Z-Factor) page on github. ![repo main page](./images/main_page.png) 
+2. Above the list of files, click  Code green button. ![Code](./images/Green_code.png) 
+3. Copy the link. ![copy](./images/Copy_link.png) 
 4. Open Terminal. 
 5. Change the current working directory to the location where you want the cloned directory. 
 6. Type git clone, and then paste the URL you copied earlier. 
